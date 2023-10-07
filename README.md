@@ -1,2 +1,2 @@
 # Khungur
-<img src="matrix_gif.gif" alt="image">
+<img src="aimage.gif" alt="image">
