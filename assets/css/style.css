@@ -346,7 +346,10 @@ header .navbar ul li a:hover {
 
 /* about section starts */
 .about {
-  background: rgb(255, 255, 255);
+  background: black;
+}
+.about .heading {
+  color: blue;
 }
 .about .row {
   display: flex;
@@ -377,21 +380,23 @@ header .navbar ul li a:hover {
   padding: 3rem;
 }
 .about .row .content h3 {
-  color: rgb(27, 27, 27);
-  font-size: 2.5rem;
+  color: blue;
+  font-size: 27px;
 }
 .about .row .content .tag {
-  font-size: 1.4rem;
-  color: #020133;
+  font-size: 20px;
+  color: blue;
   font-weight: 600;
   margin-top: 1rem;
 }
 .about .row .content p {
-  font-size: 1.5rem;
+  /*font-size: 1.5rem;*/
   margin-top: 1.5rem;
   font-family: "Nunito";
   font-weight: 600;
+  font-size: 20px;
   text-transform: none;
+  color: cyan;
 }
 .about .row .content .box-container {
   display: flex;
@@ -461,7 +466,7 @@ header .navbar ul li a:hover {
 /* skills section starts */
 .skills {
   min-height: 90vh;
-  background: linear-gradient(to bottom, #57059e, #4a00e0);
+  background: rgb(10, 10, 20);
 }
 .skills h2 {
   color: #fff;
@@ -534,7 +539,7 @@ header .navbar ul li a:hover {
 
 /* education section starts */
 .education {
-  background: #e5ecfb;
+  background: white;
   min-height: 80vh;
 }
 .education .qoute {
@@ -642,7 +647,7 @@ header .navbar ul li a:hover {
 /* work section starts */
 .work {
   /* background: #010124; */
-  background: linear-gradient(to bottom, #000031, #00002c);
+  background: transparent;
 }
 .work h2 {
   color: #fff;
@@ -760,6 +765,9 @@ header .navbar ul li a:hover {
 /* work section ends */
 
 /* experience section starts */
+.experience{
+  background: hotpink;
+}
 .experience .timeline {
   position: relative;
   max-width: 1200px;
@@ -932,7 +940,7 @@ header .navbar ul li a:hover {
 
 /* contact section starts */
 .contact {
-  background: #e5ecfb;
+  background: cyan;
   min-height: 60vh;
 }
 .contact .container {
