@@ -346,7 +346,7 @@ header .navbar ul li a:hover {
 
 /* about section starts */
 .about {
-  background: black;
+  background: grey;
 }
 .about .heading {
   color: blue;
@@ -466,7 +466,7 @@ header .navbar ul li a:hover {
 /* skills section starts */
 .skills {
   min-height: 90vh;
-  background: rgb(10, 10, 20);
+  background: black;
 }
 .skills h2 {
   color: #fff;
@@ -647,7 +647,7 @@ header .navbar ul li a:hover {
 /* work section starts */
 .work {
   /* background: #010124; */
-  background: transparent;
+  background: black;
 }
 .work h2 {
   color: #fff;
@@ -766,7 +766,7 @@ header .navbar ul li a:hover {
 
 /* experience section starts */
 .experience{
-  background: hotpink;
+  background: cyan;
 }
 .experience .timeline {
   position: relative;
@@ -940,7 +940,7 @@ header .navbar ul li a:hover {
 
 /* contact section starts */
 .contact {
-  background: cyan;
+  background: white;
   min-height: 60vh;
 }
 .contact .container {
