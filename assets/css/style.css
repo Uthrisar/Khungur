@@ -19,6 +19,7 @@ html {
 body {
   background: cyan;
   font-family: "Poppins", sans-serif;
+  margin: 2% 3%;
 }
 
 *::selection {
