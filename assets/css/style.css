@@ -1109,6 +1109,7 @@ form .button-area {
   min-height: auto;
   padding-top: 0;
   background: rgb(0, 1, 43);
+  border-radius: 25px;
 }
 .footer .box-container {
   display: flex;
